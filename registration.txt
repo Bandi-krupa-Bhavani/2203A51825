@@ -1,0 +1,9 @@
+{
+  "email": "bandikrupabhavani@gmail.com",
+  "name": "BANDI KRUPA BHAVANI",
+  "mobileNo": "7013012122",
+  "githubUsername": "Bandi-Krupa-Bhavani",
+  "rollNo": "2203A51825",
+  "collegeName": "SR University",
+  "accessCode": "MVGwEF"
+}

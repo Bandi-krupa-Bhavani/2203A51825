@@ -1,0 +1,8 @@
+{
+  "email": "bandikrupabhavani@gmail.com",
+  "name": "bandi krupa bhavani",
+  "rollNo": "2203a51825",
+  "accessCode": "MVGwEF",
+  "clientID": "33aebe9f-08e7-4ad6-bbbf-7a9c30b8bf94",
+  "clientSecret": "NbDyEjVjuRjaDyGb"
+}
